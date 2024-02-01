@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\6Q_concept\6Q_concept\bin\Debug\net8.0\6Q_concept.exe
+C:\Projects\C# Projects\6Q_concept\6Q_concept\bin\Debug\net8.0\6Q_concept.deps.json
+C:\Projects\C# Projects\6Q_concept\6Q_concept\bin\Debug\net8.0\6Q_concept.runtimeconfig.json
+C:\Projects\C# Projects\6Q_concept\6Q_concept\bin\Debug\net8.0\6Q_concept.dll
+C:\Projects\C# Projects\6Q_concept\6Q_concept\bin\Debug\net8.0\6Q_concept.pdb
+C:\Projects\C# Projects\6Q_concept\6Q_concept\obj\Debug\net8.0\6Q_concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\6Q_concept\6Q_concept\obj\Debug\net8.0\6Q_concept.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\6Q_concept\6Q_concept\obj\Debug\net8.0\6Q_concept.AssemblyInfo.cs
+C:\Projects\C# Projects\6Q_concept\6Q_concept\obj\Debug\net8.0\6Q_concept.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\6Q_concept\6Q_concept\obj\Debug\net8.0\6Q_concept.dll
+C:\Projects\C# Projects\6Q_concept\6Q_concept\obj\Debug\net8.0\refint\6Q_concept.dll
+C:\Projects\C# Projects\6Q_concept\6Q_concept\obj\Debug\net8.0\6Q_concept.pdb
+C:\Projects\C# Projects\6Q_concept\6Q_concept\obj\Debug\net8.0\6Q_concept.genruntimeconfig.cache
+C:\Projects\C# Projects\6Q_concept\6Q_concept\obj\Debug\net8.0\ref\6Q_concept.dll
